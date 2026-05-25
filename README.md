@@ -65,8 +65,6 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 
----
-
 
 ## Developer
 
