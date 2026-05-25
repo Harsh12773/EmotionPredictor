@@ -63,9 +63,17 @@ The project includes:
 Run the Streamlit application:
 
 streamlit run app.py
-```
+
+
+
 
 
 
 
 Developed by Harsh Parekh
+```
+
+
+
+
+
