@@ -66,6 +66,6 @@ streamlit run app.py
 ```
 
 
-## Developer
+
 
 Developed by Harsh Parekh
